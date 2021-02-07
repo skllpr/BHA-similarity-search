@@ -1,0 +1,127 @@
+[I 20:19:18.148 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[20:20:06] Warning: conflicting stereochemistry at atom 14 ignored.
+[20:21:00] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:21:00] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:21:01] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:21:01] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:21:19] Warning: conflicting stereochemistry at atom 6 ignored.
+[20:21:19] Warning: conflicting stereochemistry at atom 6 ignored.
+[I 20:21:27.775 NotebookApp] Kernel interrupted: 8b1f30c0-2ee0-417a-bd5f-020b9f837b8f
+[I 20:23:18.146 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:25:18.145 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:26:01.754 NotebookApp] Kernel interrupted: 8b1f30c0-2ee0-417a-bd5f-020b9f837b8f
+[I 20:27:18.147 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:27:30.429 NotebookApp] Kernel interrupted: 8b1f30c0-2ee0-417a-bd5f-020b9f837b8f
+[I 20:29:18.148 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:33:18.146 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:35:18.198 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:37:18.146 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:39:18.145 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:41:18.146 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:43:18.146 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[I 20:45:18.148 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[20:45:23] Warning: conflicting stereochemistry at atom 11 ignored.
+[20:46:58] Warning: conflicting stereochemistry at atom 14 ignored.
+[20:47:51] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:47:51] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:47:52] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:47:52] Warning: conflicting stereochemistry at atom 10 ignored.
+[20:48:11] Warning: conflicting stereochemistry at atom 6 ignored.
+[20:48:11] Warning: conflicting stereochemistry at atom 6 ignored.
+[20:49:21] Warning: conflicting stereochemistry at atom 48 ignored.
+[20:49:21] Warning: conflicting stereochemistry at atom 48 ignored.
+[20:49:25] Warning: conflicting stereochemistry at atom 0 ignored.
+[20:49:25] Warning: conflicting stereochemistry at atom 0 ignored.
+[20:49:27] Warning: conflicting stereochemistry at atom 0 ignored.
+[20:49:27] Warning: conflicting stereochemistry at atom 0 ignored.
+[20:56:18] Warning: conflicting stereochemistry at atom 5 ignored.
+[21:00:13] Warning: conflicting stereochemistry at atom 26 ignored.
+[21:09:29] Warning: conflicting stereochemistry at atom 1 ignored.
+[21:09:29] Warning: conflicting stereochemistry at atom 2 ignored.
+[21:09:29] Warning: conflicting stereochemistry at atom 1 ignored.
+[21:09:29] Warning: conflicting stereochemistry at atom 2 ignored.
+[21:09:30] Warning: conflicting stereochemistry at atom 1 ignored.
+[21:09:30] Warning: conflicting stereochemistry at atom 1 ignored.
+[21:09:30] Warning: conflicting stereochemistry at atom 4 ignored.
+[21:09:30] Warning: conflicting stereochemistry at atom 4 ignored.
+[21:10:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[21:10:49] ERROR: Could not sanitize molecule ending on line 44530308
+[21:10:49] ERROR: Explicit valence for atom # 0 N, 4, is greater than permitted
+[I 21:11:18.152 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[21:12:27] Conflicting single bond directions around double bond at index 41.
+[21:12:27]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:13:14] Warning: conflicting stereochemistry at atom 5 ignored.
+[21:31:02] Conflicting single bond directions around double bond at index 6.
+[21:31:02]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:31:02] Conflicting single bond directions around double bond at index 8.
+[21:31:02]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:31:41] Conflicting single bond directions around double bond at index 5.
+[21:31:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:31:41] Conflicting single bond directions around double bond at index 7.
+[21:31:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:31:44] Conflicting single bond directions around double bond at index 9.
+[21:31:44]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:32:17] Conflicting single bond directions around double bond at index 10.
+[21:32:17]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:33:14] Conflicting single bond directions around double bond at index 24.
+[21:33:14]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:33:41] Conflicting single bond directions around double bond at index 8.
+[21:33:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:33:41] Conflicting single bond directions around double bond at index 10.
+[21:33:41]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:33:57] Conflicting single bond directions around double bond at index 7.
+[21:33:57]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:33:57] Conflicting single bond directions around double bond at index 9.
+[21:33:57]   BondStereo set to STEREONONE and single bond directions set to NONE.
+[21:35:58] Warning: conflicting stereochemistry at atom 0 ignored.
+[21:35:58] Warning: conflicting stereochemistry at atom 0 ignored.
+[21:39:59] Warning: conflicting stereochemistry at atom 13 ignored.
+[21:39:59] Warning: conflicting stereochemistry at atom 13 ignored.
+[21:49:07]  S group SUP ignored on line 111003088
+[21:49:07]  S group SUP ignored on line 111003334
+[21:49:08]  S group SUP ignored on line 111022939
+[21:49:08]  S group SUP ignored on line 111023184
+[21:49:09]  S group SUP ignored on line 111043929
+[21:49:09]  S group SUP ignored on line 111044180
+[21:49:09]  S group SUP ignored on line 111045205
+[21:49:09]  S group SUP ignored on line 111046395
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077978
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:10]  S group SUP ignored on line 111077979
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111164031
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:14]  S group SUP ignored on line 111184490
+[21:49:15]  S group SUP ignored on line 111206338
+[21:49:15]  S group SUP ignored on line 111211487
+[22:00:52] Explicit valence for atom # 1 As, 7, is greater than permitted
+[22:00:52] ERROR: Could not sanitize molecule ending on line 130586325
+[22:00:52] ERROR: Explicit valence for atom # 1 As, 7, is greater than permitted
+[I 22:01:18.160 NotebookApp] Saving file at /envs/chempython/chembl_27.sdf/rdkitDatabaseAnalysisScript.ipynb
+[22:02:26] Warning: conflicting stereochemistry at atom 84 ignored.
+[22:02:26] Warning: conflicting stereochemistry at atom 84 ignored.
+[22:07:23] Explicit valence for atom # 0 As, 7, is greater than permitted
+[22:07:23] ERROR: Could not sanitize molecule ending on line 141012105
+[22:07:23] ERROR: Explicit valence for atom # 0 As, 7, is greater than permitted
