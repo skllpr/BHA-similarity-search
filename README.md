@@ -8,4 +8,4 @@ Although BHA can be beneficial for food preservation, consuming large quantities
 The European Comission on Endocrine Disruption linked long term consumption of products containing BHA to disteurbances in hormonal function, and the International Agency for Research for Cancer labeled BHA as a possible carcinogen.  
 
 # What does our project do?
-Using 1.9 Million molecules provided by the ChemBLDB, we analyzed similar molecules to find alternatives. Using molecular fingerprinting and rdkit for python, we were able to fingerprint each molecule and do a molecular comparsion between BHA. Using this, we created a shortlist of 100 potential alternatives to BHA which could be used as an alternative to the carcinogen.
+Using 1.9 Million molecules provided by the ChemBLDB, we analyzed similar molecules to find alternatives. Using molecular fingerprinting and rdkit for python, we were able to fingerprint each molecule and do a molecular comparsion between BHA. Using this, we created a list of 100 potential alternatives to BHA which could be used as an alternative.
